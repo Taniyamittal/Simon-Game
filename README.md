@@ -8,6 +8,9 @@ These games, based on the simple children's game “Simon says” are a great me
 3. You need to maintain the order of the box being highlighted
 4. If you get the sequence wrong ,Game will be over.
 
+# Technology
+Technology Used : HTML, CSS and JavaScript
+
 # Github Page
 https://taniyamittal.github.io/Simon-Game/
 
